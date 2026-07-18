@@ -20,6 +20,7 @@ sequential, commitment-before-advance observation produce a verifiable
 record that a full-context observer structurally cannot produce? The
 README there reports results honestly, including runs that didn't go
 the way the hypothesis predicted.
+See [MISSION.md](MISSION.md) for what this is trying to achieve, as distinct from how.
 
 ---
 
